@@ -173,7 +173,7 @@ int main() {
     
     a0 = ( j0 + 1 )/( j0 - 1 );
     n = 2*j3/( j3 - 1 );
-    m = ( U3 - U0 )*   sqrtf(( j0 - 1 ) * r0 / (2 * P0 ))   ;    // NEED TO CHEK PHYSICAL DIMENTIONS OF VARIABLES!!!!!!
+    m = ( U3 - U0 )*   sqrtf(( j0 - 1 ) * r0 / (2 * P0 ))   ;     
     v = (2*C3/(j3 - 1))* sqrtf ( r0*(j0-1)/(2*P0));
     x = P3/P0;
     delta = (2*C3/(j3 - 1));
